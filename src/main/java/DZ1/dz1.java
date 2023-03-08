@@ -13,9 +13,9 @@ public class dz1 {
                 max=num;
             }
         }
-        System.out.printf("Минимальное значение:", min);    //почемуто не выводит без 17 строки
-        System.out.println(min);
-        System.out.printf("Максимальное значение:", max);
-        System.out.println(max);
+        System.out.printf("Минимальное значение = %d", min);
+//
+        System.out.printf("\nМаксимальное число = %d", max);
+
     }
 }
